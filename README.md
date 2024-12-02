@@ -57,7 +57,14 @@ Authentication & Security:
 OAuth 2.0 and JWT will ensure a secure login process, while Two-Factor Authentication (2FA) adds an additional layer of security.
 Data Protection:
 SSL/TLS encryption will ensure that data is protected at every step, and regular audits will keep everything in check.
+![a0CYeHkB9fso5E260AKQHKqlmq0DbUNSip8DLieTJqKMJltnA](https://github.com/user-attachments/assets/fce4fc7e-687c-4e10-8e73-c6223ffa1d9d)
 
+
+
+
+
+
+ 
 ## Use Cases
 
 
@@ -90,6 +97,10 @@ The platform highlights notable alumni to inspire others and celebrate their con
 Feedback & Surveys:
 
 Alumni can provide feedback on their experience with the platform, college events, or initiatives through surveys.
+
+
+![20241202_212949](https://github.com/user-attachments/assets/0379d5f4-b1bf-49a1-9747-6399e0f6e831)
+
 
 
 ## Technology Stack
